@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-brightgreen)](https://github.com/your-username/wechat-friends-exporter/releases)
 
-![工具 Logo](images/logo.png)
+![工具 Logo](images/999.jpg)
 
 ## 项目简介
 
