@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-brightgreen)](https://github.com/your-username/wechat-friends-exporter/releases)
 
-![工具 Logo](images/999.jpg)
+
 
 ## 项目简介
 
@@ -11,8 +11,14 @@
 
 **注意**：本工具为闭源付费软件，需遵守使用协议及相关法律法规，仅限合法用途。请勿用于任何违反隐私或法律的行为。
 
-![工具界面截图](images/screenshot.png)
+![工具界面截图](999.jpg)
+使用顺序
+第一步，安装指定微信版本号
 
+第二把，安装插件vcredist_x86.exe和ndp472-kb4054531-web.exe
+(如果提示已有，忽视)
+
+第三步，解压程序包双击exe启动即可，首次启动较慢，稍微等待即可
 ## 功能特性
 
 - **高效导出**：一键导出微信好友列表，包含昵称、备注、微信号等信息。
